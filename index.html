@@ -1,0 +1,91 @@
+ <!DOCTYPE html>
+<html lang="de">
+	<head>
+		<title>Weihnachtsmärkte in Köln</title>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="css/main.css" />
+		<link rel="stylesheet" href="css/jquery-ui.css" />
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+
+		<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script> 
+		
+		<script
+			  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+			  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+			  crossorigin="anonymous"></script>
+			  
+		
+		 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+		integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+		crossorigin=""/>
+		
+		 <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+		integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+		crossorigin=""></script>
+		
+		<script src="data/christmas_2019.json" type="application/json"></script>
+		<script src="js/main.js"></script>
+	</head>
+	<body>
+		<div id="mapid">
+			<a id="navicon"></a>
+			<nav>
+				<a id="close"></a>
+				<h2></h2>
+				
+				<button class="ui-button ui-widget ui-corner-all opened">Heute geöffnet</button>
+				
+				<h3>Typ</h3>
+				<button class="ui-button ui-widget ui-corner-all type" value="klassisch">Klassisch</button>
+				<button class="ui-button ui-widget ui-corner-all type" value="burg">Burg & Mittelalter</button>
+				<button class="ui-button ui-widget ui-corner-all type" value="design">Design</button>
+				
+				<h3>Ort</h3>
+				<input id="plz" type="text" class=" plz" placeholder="Postleitzahl" name="plz" maxlength="5">
+				
+			</nav>
+			
+			<div id="explanation">
+				<img src="img/close.svg" alt="Button zum Schließen des Informationsfenster, das über der dargestellten Karte liegt">
+				<h1></h1>
+				<p>
+					Um Details zum jeweiligen Weihnachtsmarkt zu erhalten, 
+					klicken Sie auf oder berühren Sie eine der Markierungen.
+				</p>
+			</div>
+			
+		</div>
+		<div id="notification">Für weitere Informationen klicken Sie auf eine der Markierungen oder berühren Sie sie auf Ihrem Touchscreen.</div>
+		<script>
+		
+		var type = getQueryParams(document.location.search).type;
+		
+		
+		var view;
+		var zoom;
+		if (type === 'koeln'){
+			view = [50.948786, 6.90];
+			zoom = 12;
+		} else{
+			view = [50.858786, 6.921744];
+			zoom = 9.5;
+		}
+		
+	
+		var filter = {};
+			var map = 	L.map('mapid',{
+							
+							zoomSnap: 0.1,
+							zoomControl: false,
+						}).setView(view, zoom);
+			window.onload = main(map, filter);
+			
+		</script> 
+
+
+
+	</body>
+</html>
