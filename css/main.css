@@ -1,0 +1,334 @@
+/**************************************************************/
+
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, address, big, cite, code, em, img,
+small, strong, b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, article, aside, details, 
+figure, figcaption, footer, header, 
+menu, nav, section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+html{
+	background:#ddd;
+	font-size:16px;
+	font-family:"PT Serif",Arial, sans-serif;
+}
+body{
+	margin:0 auto;
+	position:relative;
+	width:100%;
+	height:640px;
+	max-width:1024px;
+}
+b{
+	font-weight:bold;
+}
+ul{
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+ ul li{
+	text-indent:-1rem;
+	padding:0 0 1% 1em;
+	margin:1% 0;
+}
+ul li::before{
+	content: "∎";
+	padding-right: 7px;
+	margin-bottom: 4px;
+	color: #908f8f;
+	font-size: 15px;
+	vertical-align: 1px;
+}
+a{
+	text-decoration:none;
+}
+.ui-button-active{
+	background:#ddd !important;
+	font-weight:bold !important;
+}
+.express .leaflet-container a{
+	color:#ED261A;
+}
+#mapid { 
+	position:absolute;
+	height:100%;
+	width:100%;
+	z-index:1;
+}
+#mapid #explanation{
+	position:absolute;
+	z-index:801;
+	top:2%;
+	right:0;
+	padding:4px;
+	width:400px;
+	max-width:50%;
+	
+}
+.ksta  #mapid #explanation{
+	height:130px;
+	background: rgba(255,255,255,0.8);
+	background-position:97% 96%;
+	background-size:37%;
+}
+.express #mapid #explanation{
+	height:150px;
+	background: rgba(255,255,255,0.8);
+	background-position:97% 96%;
+	background-size:20%;
+}
+.kr #mapid #explanation{
+	height:150px;
+	background: rgba(255,255,255,0.8);
+	background-position:97% 100%;
+	background-size:38%;
+}
+.express #mapid #explanation p{
+	margin-right:90px;
+}
+#mapid #explanation a{
+	font-weight:bold;
+}
+#mapid #explanation img{
+	float:right;
+	height:18px;
+	width:18px;
+	margin:3px 3px 0 0;
+}
+#mapid #explanation h1{
+	font-size:1.4rem;
+}
+#explanation:before{
+	position:absolute;
+	content:" ";
+	width: 60px;
+	height: 60px;
+	bottom: -50px;
+	left: -23px;
+	z-index: 402;
+	background: url('../img/ball.png') no-repeat center center;
+	background-size: contain;
+	-webkit-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+	-webkit-animation: swinging 3.5s ease-in-out forwards infinite;
+	animation: swinging 3.5s ease-in-out forwards infinite;
+}
+@-webkit-keyframes swinging{
+	0%{-webkit-transform: rotate(10deg);}
+	50%{-webkit-transform: rotate(-5deg)}
+	100%{-webkit-transform: rotate(10deg);}
+}
+@keyframes swinging{
+	0%{transform: rotate(10deg);}
+	50%{transform: rotate(-5deg)}
+	100%{transform: rotate(10deg);}
+}
+#explanation:after{
+	content:"ο";
+	position: absolute;
+	left: 2px;
+	bottom: -5px;
+	color: #9c9a9a;
+	font-size:16px;
+}
+#navicon{
+	display:none;
+	position:absolute;
+	z-index:401;
+	width: 50px;
+	height: 50px;
+	top: 2%;
+	left: 1%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	cursor:pointer;
+}
+
+nav{
+	position:absolute;
+	z-index:401;
+	top:2%;
+	left:2%;
+	width:275px;
+	height:60%;
+	background-repeat:no-repeat;
+	background-position:center 99%;
+	background-size:80%;
+	background-color:rgba(255,255,255,0.8);
+	text-align:center;
+	padding:4px;
+}
+nav #close{
+	float:right;
+	width:12px;
+	height:12px;
+	padding:2px;
+	background:url('../img/close.svg') no-repeat center center;
+	border:none;
+}
+nav button{
+	display:block;
+	width:200px;
+	margin:8px auto;
+}
+
+
+}
+nav h2{
+	font-size:18px;
+	
+}
+nav h3{
+	text-align:left;
+}
+nav input{
+	width:90%;
+	
+}
+.leaflet-container nav a{
+	width:40px;
+	margin:4px;
+	background: #f6f6f6;
+	border: 1px solid #c5c5c5;
+	color: #454545;
+	border-radius:3px;
+	padding: .4em 1em;
+	display: inline-block;
+	position: relative;
+	line-height: normal;
+	margin-right: .1em;
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+}
+.leaflet-container nav a:hover{
+	border: 1px solid #ccc;
+	background: #ededed;
+	font-weight: normal;
+	color: #2b2b2b;
+}
+.leaflet-container nav a.selected{
+	font-weight:bold;
+	border:1px solid #5f5f5f;
+}
+tspan{
+	font-weight:bold;
+}
+.popup{
+	position: absolute;
+	z-index: 2;
+	top: 22%;
+	left: 24%;
+	width: 500px;
+	padding:6px;
+	background: rgba(255,255,255,0.8);
+}
+.ksta .popup{
+	border-left:4px solid #0085C8;
+}
+.express .popup{
+	border-left:4px solid #ED261A;
+}
+.popup  a{
+	display:inline-block;
+	z-index:2;
+	cursor:pointer;
+	margin: 20px auto 0 auto;
+	height:40px;
+	width:220px;
+	line-height:40px;
+	text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	pointer-events:all;
+}
+.ksta .popup  a{
+	background:#0085C8;
+}
+.express .popup  a{
+	background:#ED261A;
+}
+.kr .popup  a{
+	background:#269AD5;
+}
+.popup a{
+	display:block;
+	margin:2% auto;
+}
+.popup .opened{
+	color:green;
+}
+.popup .closed{
+	color:red;
+}
+.popup .button:not(.back){
+	float:left;
+	background:#666666;
+	width:130px;
+}
+.popup .back{
+	float:right;
+}
+h2{
+	font-size:1.875rem;
+	font-weight:bold;
+	margin:1% 2% 0 2%;
+	text-align:center;
+}
+h3{
+	margin:10px 0 2px 0;
+	font-weight:bold;
+	font-size:1.125rem;
+}
+.graph{
+	max-height:240px;
+	margin-bottom:20px;
+}
+#notification{
+	display:none;
+	position: absolute;
+	z-index:2;
+    top: 40%;
+    width: 320px;
+    left: calc(50% - 180px);
+    background: rgba(255,255,255,0.8);
+    padding: 16px 8px;
+    border-radius: 4pt;
+	text-align:center;
+	border:1px solid #b0b0b0;
+	cursor:pointer;
+}
+@media (max-width:640px){
+	.popup{
+		left:0;
+		width:auto;
+	}
+}
+@media (max-width:580px){
+	#mapid #explanation{
+		display:none !important;
+	}
+	#navicon{
+		display:block;
+	}
+	nav{
+		display:none;
+	}
+	
+}
