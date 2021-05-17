@@ -1,0 +1,2410 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.115909,50.956462 ]
+    },
+    "properties": {
+    "name":"Refrather Weihnachtsdorf",
+    "start":"25.11.2019",
+    "ende":"24.12.2019",
+    "strasse":"Peter-Bürling-Platz",
+    "hausnummer":"",
+    "plz":"51427",
+    "ort":"Bergisch Gladbach",
+    "url":"https://www.refrather-weihnachtsdorf.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Di. bis Do. und So. 12 bis 22 Uhr, Fr. bis Sa. 12 bis 0 Uhr, 23. Dezember 12 bis 22 Uhr, Heiligabend 10. bis 13 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.130381,50.991829 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Bergisch Gladbach",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Konrad-Adenauer-Platz",
+    "hausnummer":"",
+    "plz":"51465",
+    "ort":"Bergisch Gladbach",
+    "url":"http://www.weihnachtsmarkt-bergischgladbach.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"täglich 11 bis 20 Uhr, Sa. 11 bis 21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.407182,50.905371 ]
+    },
+    "properties": {
+    "name":"Schloss Eulenbroich",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Zum Eulenbroicher Auel",
+    "hausnummer":"19",
+    "plz":"51503",
+    "ort":"Rösrath",
+    "url":"https://www.schloss-eulenbroich.de/weihnachtsmarkt.aspx",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr. 17 bis 22 Uhr<br>Sa. 11 bis 22 Uhr<br>So. 11 bis 19 Uhr",
+    "Eintrittspreise":"3 Euro, ermäßigt 2 Euro<br>Kinder bis 14 Jahre frei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.132468,51.054598 ]
+    },
+    "properties": {
+    "name":"Altenberger Dom",
+    "start":"16.2.2019",
+    "ende":"8.12.2019",
+    "strasse":"Eugen-Heinen-Platz ",
+    "hausnummer":"2",
+    "plz":"51519",
+    "ort":"Odenthal",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. von 16 bis 21 Uhr, Sa. 11 bis 21 Uhr, So. 10 bis 21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.274063,50.956125 ]
+    },
+    "properties": {
+    "name":"Bergischer Weihnachtsmarkt im Wald  - Kreutzhäuschen",
+    "start":" ab 2. Adventswochenende",
+    "ende":"",
+    "strasse":"Kreutzhäuschen",
+    "hausnummer":"6",
+    "plz":"51491",
+    "ort":"Overath",
+    "url":"https://www.weihnachtsmarktimwald.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"7./8. Dezember, 14./15. Dezember und 21./22. Dezember jeweils von 11 bis 19 Uhr",
+    "Eintrittspreise":"vier Euro ab 14 Jahren (wird beim Weihnachtsbaumverkauf angerechnet)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.288370,50.933140 ]
+    },
+    "properties": {
+    "name":"Overather Weihnachtsmarkt",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Hauptstraße",
+    "hausnummer":"",
+    "plz":"51491",
+    "ort":"Overath",
+    "url":"https://einkaufen-in-overath.de/weihnachtsmarkt-2/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"täglich von 18 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.26697,51.051863 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Kürten",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Karlheinz-Stockhausen-Platz ",
+    "hausnummer":"1",
+    "plz":"51515",
+    "ort":"Kürten",
+    "url":"www.kuerten-erleben.de",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. ab 18 Uhr, Sa. 14 bis 21 Uhr, So.  11 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.175175,50.922475 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Forsbach an der ev. Kirche",
+    "start":"1.12.2019",
+    "ende":"",
+    "strasse":"Am Höhenweg",
+    "hausnummer":"",
+    "plz":"51503",
+    "ort":"Rösrath",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"XX bis XX Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.198513,50.915301 ]
+    },
+    "properties": {
+    "name":"Hoffnungsthal Weihnachtsmarkt auf dem Schulhof",
+    "start":"15.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Hauptstraße ",
+    "hausnummer":"262",
+    "plz":"51503",
+    "ort":"Rösrath",
+    "url":"http://www.ortsringhoffnungsthal.de/Veranstaltungen",
+    "typ":"klassisch",
+    "oeffnungszeiten":"ab 11 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.195224,50.882401 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt des Heimatvereins Rambrücken",
+    "start":"23.11.2019",
+    "ende":"23.11.2019",
+    "strasse":"Rambrücken/Dorfplatz",
+    "hausnummer":"30",
+    "plz":"51503",
+    "ort":"Rösrath",
+    "url":"https://www.roesrath.de/veranstaltung-details.aspx?id=d2264b46-2e0f-4567-9d32-812407792a5e&datum=23.11.2019",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Ab 16 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.283339,50.775239 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Hennef (Sieg)",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"53773",
+    "ort":"Hennef",
+    "url":"https://www.hennef.de/index.php?id=146",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 16 bis 20 Uhr, Sa. 11 bis 20 Uhr, So. 11 bis 19 Uhr, inkl. verkaufsoffener So.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.207235,50.796833 ]
+    },
+    "properties": {
+    "name":"Mittelalter-Weihnachtsmarkt Siegburg",
+    "start":"23.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"53721",
+    "ort":"Siegburg",
+    "url":"http://www.mittelalterlicher-markt-siegburg.de/web/mittelalterlicher_markt/",
+    "typ":"burg",
+    "oeffnungszeiten":"So. bis Do. 11 bis 20 Uhr, Fr. und Sa. 11 bis 21 Uhr, 24.11 18 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.407182,50.905371 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Much",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Kirchplatz und Hauptstrasse",
+    "hausnummer":"",
+    "plz":"53804",
+    "ort":"Much",
+    "url":"https://www.much-aktiv.eu/weihnachtsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. 12 bis 21 Uhr, So. 11 bis 19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.48247,50.84508 ]
+    },
+    "properties": {
+    "name":"Döörper Weihnacht",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Burgplatz",
+    "hausnummer":"",
+    "plz":"53809",
+    "ort":"Ruppichteroth",
+    "url":"https://www.bv-ruppichteroth.de/doeoerper-weihnacht/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. 14 bis 21 Uhr<br>So. 11 bis 19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.259773,50.840456 ]
+    },
+    "properties": {
+    "name":"Nikolausmarkt in Lohmar-Algert",
+    "start":"7.12.2019",
+    "ende":"7.12.2019",
+    "strasse":"Algerter Straße ",
+    "hausnummer":"9",
+    "plz":"53797",
+    "ort":"Lohmar",
+    "url":"https://www.lohmar-algert.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"ab 15 Uhr, Nikolausbesuch gegen 17 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.334559,50.840633 ]
+    },
+    "properties": {
+    "name":"Romantik-Weihnachtsmarkt Neunkirchen-Seelscheid",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"53819",
+    "ort":"Neunkirchen-Seelscheid",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. 16 bis 21 Uhr, So. 11 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.320063,50.875255 ]
+    },
+    "properties": {
+    "name":"Seelscheder Chresmaat",
+    "start":"30.11.2019",
+    "ende":"30.11.2019",
+    "strasse":"Pfarrer-Julius-Smend-Platz, Kirchweg, Dorfstraße",
+    "hausnummer":"",
+    "plz":"53819",
+    "ort":"Neunkirchen-Seelscheid",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"14.30 Uhr bis 22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.449773,50.770345 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Eitorf",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"53783",
+    "ort":"Eitorf",
+    "url":"http://www.eitorf.de/natur--kultur-erleben/veranstaltungen/2911-112-eitorfer-weihnachtsmarkt.html",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. und Sa.  11 bis 21 Uhr, So. 11 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.156102,50.814870 ]
+    },
+    "properties": {
+    "name":"Winterwald Troisdorf",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Fußgängerzone ",
+    "hausnummer":"",
+    "plz":"53840",
+    "ort":"Troisdorf",
+    "url":"http://www.troisdorf.de/web/de/freizeit_kultur/innenstadt/winterwald.htm",
+    "typ":"klassisch",
+    "oeffnungszeiten":"11 Uhr bis 19 Uhr, inkl. verkaufsoffener So. 13 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.068517,50.775616 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Mondorf",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Adenauerplatz",
+    "hausnummer":"",
+    "plz":"53859",
+    "ort":"Niederkassel",
+    "url":"https://www.ortsring-mondorf.de/weihnachtsmarkt-2019",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. ab 14 Uhr, So. 10 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.041287,50.791076 ]
+    },
+    "properties": {
+    "name":"Adventsmarkt Niederkassel-Rheidt",
+    "start":"23.11.2019",
+    "ende":"23.11.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"53859",
+    "ort":"Niederkassel",
+    "url":"https://www.ortsring-rheidt.de/adventsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"XX Uhr bis XX Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.066456,50.820784 ]
+    },
+    "properties": {
+    "name":"Adventsmarkt Uckendorf",
+    "start":"29.11.2019",
+    "ende":"29.11.2019",
+    "strasse":"Schulhof der Alten Schule",
+    "hausnummer":"",
+    "plz":"53859",
+    "ort":"Niederkassel",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Ab 17.30 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.166672,50.759667 ]
+    },
+    "properties": {
+    "name":"Nikolausmarkt Hangelar",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Udetstraße ",
+    "hausnummer":"10",
+    "plz":"53757",
+    "ort":"Sankt Augustin",
+    "url":"https://www.werbekreishangelar.de/veranstaltungen/nikolausmarkt",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Samstag ab 13 Uhr bis Sonntag 19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.254505,50.881086 ]
+    },
+    "properties": {
+    "name":"Nikolausmarkt Wahlscheid",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Bartholomäusstr. ",
+    "hausnummer":"6",
+    "plz":"53797",
+    "ort":"Lohmar-Wahlscheid",
+    "url_ksta":"https://www.ksta.de/region/rhein-sieg-bonn/weihnachten-2018-das-sind-die-termine-der-weihnachtsmaerkte-im-rhein-sieg-kreis-23329542",
+    "url":"http://www.ev-kirche-wahlscheid.de/herzliche-einladung-zum-nikolausmarkt-am-1-adventswochenende-rund-um-die-ev-st-bartholomaeuskirche/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. nach dem Gottesdienst gegen 11 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.272316,50.853777 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Breidt",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Breidter Straße ",
+    "hausnummer":"11",
+    "plz":"53797",
+    "ort":"Lohmar",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. von 16 Uhr bis 20.30 Uhr, So. von 11 Uhr bis 17.30 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.904599,50.827693 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Brühl",
+    "start":"25.11.2019",
+    "ende":"24.12.2019",
+    "strasse":"Am Markt",
+    "hausnummer":"",
+    "plz":"50321",
+    "ort":"Brühl",
+    "url":"Der Eintritt ist gratis",
+    "typ":"klassisch",
+    "oeffnungszeiten":"täglich 11 bis 20 Uhr<br>Heiligabend bis 14 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.609401,50.964452 ]
+    },
+    "properties": {
+    "name":"Schloss Paffendorf",
+    "start":"Erstes und zweites Adventswochenende",
+    "ende":"",
+    "strasse":"Burggasse",
+    "hausnummer":"1",
+    "plz":"50126",
+    "ort":"Bergheim",
+    "url":"https://schlosspaffendorf.de/paffendorf-erleben/weihnachtsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"jeweils 12 bis 21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.641355,50.954465 ]
+    },
+    "properties": {
+    "name":"Winterdorf in Bergheim",
+    "start":"29.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Hubert-Rheinfeld-Platz",
+    "hausnummer":"",
+    "plz":"50126",
+    "ort":"Bergheim",
+    "url":"Der Eintritt ist gratis",
+    "typ":"klassisch",
+    "oeffnungszeiten":"täglich 11 bis 22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.748186,50.967970 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Glessen",
+    "start":"30.11.2019",
+    "ende":"30.11.2019",
+    "strasse":"Pfarrer-Tirtey-Straße",
+    "hausnummer":"",
+    "plz":"50129",
+    "ort":"Bergheim",
+    "url":"https://www.glessen-ortsinfo.de/event/benefiz-weihnachtsmarkt-fuer-uns-paenz/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"14 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8675,50.870587 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Alt-Hürth",
+    "start":"7.12.2019",
+    "ende":"7.12.2019",
+    "strasse":"Weierstraße",
+    "hausnummer":"6",
+    "plz":"50354",
+    "ort":"Hürth",
+    "url":"https://www.huerth.de/events/106280100000038406.php",
+    "typ":"klassisch",
+    "oeffnungszeiten":"ab 11 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.693108,50.869628 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Kerpen",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Stiftsplatz",
+    "hausnummer":"",
+    "plz":"50171",
+    "ort":"Kerpen",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 17 bis 22 Uhr, Sa. 14 bis 22 Uhr, So. 11 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.802398,50.997992 ]
+    },
+    "properties": {
+    "name":"Barbaramarkt in Pulheim",
+    "start":"27.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Venloer Straße",
+    "hausnummer":"",
+    "plz":"50259",
+    "ort":"Pulheim",
+    "url":"nhttp://aktionsring-pulheim.de/index.php/veranstaltungen/barbaramarkt.html",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Täglich 11 Uhr bis 21 Uhr, inkl. verkaufsoffener So. von 13 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.782533,50.961035 ]
+    },
+    "properties": {
+    "name":"Nikolausmarkt in Brauweiler",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Ehrenfriedstraße, Abteipark",
+    "hausnummer":"",
+    "plz":"50259",
+    "ort":"Pulheim",
+    "url":"https://www.pulheim.de/freizeit-sport-tourismus/veranstaltungskalender/details/nikolausmarkt-2019/?id=16385&area=details&event_id=6972",
+    "typ":"klassisch",
+    "oeffnungszeiten":"jeweils 11 Uhr bis 22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.981409,50.824620 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Wesseling",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Alfons-Müller-Platz",
+    "hausnummer":"",
+    "plz":"50389",
+    "ort":"Wesseling",
+    "url":"https://www.wesseling.de/_meinWesseling/weihnachtsmarkt.php",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. und Sa. 12 bis 21 Uhr<br>So. 12 bis 19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.576162,50.997754 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Bedburg",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Marktplatz",
+    "hausnummer":"",
+    "plz":"50181",
+    "ort":"Bedburg",
+    "url":"https://www.bedburg.de/Veranstaltungen/Erlebnis-Weihnachtsmarkt-in-Bedburg.html",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 17 bis 21 Uhr<br>Sa. 13 bis 21 Uhr<br>So. 13 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.684246,50.936110 ]
+    },
+    "properties": {
+    "name":"Weihnachtstraum in Quadrath-Ichendorf",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Graf-Beissel-Platz",
+    "hausnummer":"",
+    "plz":"50127",
+    "ort":"Bergheim",
+    "url":"http://www.wintermärchen.info/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. von 13 bis 18 Uhr, So. von 11 bis 18 Uhr.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.631962,50.950806 ]
+    },
+    "properties": {
+    "name":"Winterwäldchen in Bergheim",
+    "start":"20.12.2019",
+    "ende":"22.12.2019",
+    "strasse":"Hauptstraße",
+    "hausnummer":"101",
+    "plz":"50126",
+    "ort":"Bergheim",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Weihnachtsmarkt auf der Wiese vor dem Aachener Tor, Freitag von 14 Uhr bis Sonntag um 22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.831247,50.891282 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Gleuel",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Schnellermaarstraße ",
+    "hausnummer":"19",
+    "plz":"50354",
+    "ort":"Hürth",
+    "url":"https://www.lzgleuel.de/weihnachtsmarkt",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. von 16 Uhr bis 22 Uhr und So. von 13 Uhr bis 19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.711252,50.911169 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Horrem",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Friedrich-Ebert-Platz",
+    "hausnummer":"",
+    "plz":"50169",
+    "ort":"Kerpen",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Samstag von 11 bis 22 Uhr und Sonntag von 11 bis 20 Uhr.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.754264,51.016229 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Stommeln",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Hauptstraße",
+    "hausnummer":"",
+    "plz":"50259",
+    "ort":"Pulheim",
+   "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. von 17 bis 21 Uhr, Sa. von 14 bis 21 Uhr und So. von 12 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.409082,50.986683 ]
+    },
+    "properties": {
+    "name":"Christkindmarkt in Engelskirchen",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Engelsplatz",
+    "hausnummer":"",
+    "plz":"51766",
+    "ort":"Engelskirchen",
+    "url":"https://zauberhafte-weihnacht.de/christkindmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 14 bis 21 Uhr, Sa. 11 bis 21 Uhr, So. 11 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.763833,50.553800 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Bad Münstereifel",
+    "start":"22.11.2019",
+    "ende":"29.12.2019",
+    "strasse":"Markt",
+    "hausnummer":"",
+    "plz":"53902",
+    "ort":"Bad Münstereifel",
+    "url":"https://www.eifel.info/informationen/veranstaltungen/veranstaltungskalender/e-weihnachtsmarkt-historische-altstadt-im-lichterglanz-2",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo. bis Do. 13 bis 19 Uhr, Fr. bis So. 11 bis 20 Uhr, 22.11 ab 17 Uhr,  24.11 geschlossen, 14.12 bis 23 Uhr, 24.12 bis 26.12 geschlossen",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.787191,50.661280 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Euskirchen",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Alter Markt",
+    "hausnummer":"",
+    "plz":"53879",
+    "ort":"Euskirchen",
+    "url":"https://www.z-eu-s.de/veranstaltungen/einzelansicht/artikel/weihnachtsmarkt-auf-dem-alten-markt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. von 16 Uhr bis 20 Uhr, Sa., von 11 bis 20 Uhr, Sonntag 11 bis 19 Uhr, inkl. verkaufsoffener Sonntag von 13 bis 18 Uhr.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.466266,50.477365 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt auf Burg Reifferscheid in Hellenthal",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Zehntweg ",
+    "hausnummer":"5",
+    "plz":"53940",
+    "ort":"Hellenthal",
+    "url":"https://www.eifelverein-reifferscheid.de/index.php/satzung-2/termine/Eventdetail/201/-/22-weihnachtsmarkt-auf-burg-reifferscheid",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa. 14 bis 22 Uhr und So. 11 bis 18 Uhr",
+    "Eintrittspreise":"Eintritt 1,50 Euro, Für Kinder bis zum Schwertmaß (1,50 Meter) ist der Eintritt frei."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7068207,50.6199 ] 
+    },
+    "properties": {
+    "name":"Burg Satzvey",
+    "start":"An den Advenswochenden ",
+    "ende":"",
+    "strasse":"An der Burg",
+    "hausnummer":"3",
+    "plz":"53894",
+    "ort":"Mechernich-Satzvey",
+    "url":"https://www.burgsatzvey.de/veranstaltung/burgweihnacht-2019/",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa. von 12 Uhr bis 20 Uhr und So. von 12 bis 19 Uhr. ",
+    "Eintrittspreise":"Erwachsene 9 Euro, Jugendliche 6,50 Euro und Kinder (vier bis zwölf Jahre) 4 Euro (Familienkarten gibt es für 23 Euro)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.474171,50.528213 ]
+    },
+    "properties": {
+    "name":"Schleidener Nikolausmarkt",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Am Markt ",
+    "hausnummer":"1",
+    "plz":"53937",
+    "ort":"Schleiden",
+    "url":"https://www.eifel.info/informationen/veranstaltungen/veranstaltungskalender/e-schleidener-nikolausmarkt",
+    "typ":"klassisch",
+    "oeffnungszeiten":"jeweils von 10 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.562937,50.502721 ]
+    },
+    "properties": {
+    "name":"Kloster Steinfeld",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Kreuzgang im Kloster Steinfeld",
+    "hausnummer":"",
+    "plz":"53925",
+    "ort":"Kall",
+    "url":"http://www.kloster-steinfeld.de/de/node/1010",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa. von 12 bis 20 Uhr, So. von 11 bis 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.497714,50.574597 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Gemünd",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Marienplatz",
+    "hausnummer":"",
+    "plz":"53937",
+    "ort":"Schleiden",
+    "url":"https://www.schleiden.de/tourismus/veranstaltungen/2019/14-15-12-traditioneller-weihnachtsmarkt-ganz-neu/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. von 10 bis 18 Uhr, So. von 11 bis 18 Uhr, inkl.  verkaufsoffener Sonntag von 13 bis 18 Uhr.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.631124,50.617538 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt im Freilichtmuseum Kommern",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Eickser Straße",
+    "hausnummer":"",
+    "plz":"53894",
+    "ort":"Mechernich-Kommern",
+    "url":"https://kommern.lvr.de/de/mehr_erfahren/veranstaltungen_1/AdventfralleSinne2019.html",
+    "typ":"burg",
+    "oeffnungszeiten":"von 10 bis 18 Uhr",
+    "Eintrittspreise":"7,50 Euro, Kinder und Jugendliche bis 18 Jahre haben freien Eintritt."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.239991,50.554866 ]
+    },
+    "properties": {
+    "name":"Monschauer Weihnachtsmarkt",
+    "start":"22.11, 23.11, an allen Adventswochenenden",
+    "ende":"",
+    "strasse":"Holzmarkt ",
+    "hausnummer":"5",
+    "plz":"52156",
+    "ort":"Monschau",
+    "url":"https://www.monschau.de/de/erleben/monschauer-weihnachtsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. und Sa. von 11 bis 21 Uhr, So. von 11 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.022921,50.621583 ]
+    },
+    "properties": {
+    "name":"Meckenheimer Weihnachtsmarkt „Zintemaat“",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Kirchplatz  ",
+    "hausnummer":"",
+    "plz":"53340",
+    "ort":"Meckenheim",
+    "url":"http://www.xn--unternehmen-fr-meckenheim-rwc.de/termine/zintemaat/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 16 bis 21 Uhr, Sa. von 11 bis 21 Uhr und Sonntag 10.30 Uhr bis 20 Uhr, inkl. verkaufsoffener Sonntag von 13 bis 18 Uhr.",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.951172,50.788403 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Sechtem",
+    "start":"30.11.2019",
+    "ende":"30.11.2019",
+    "strasse":"Weilerplatz, Straßburger Straße",
+    "hausnummer":"",
+    "plz":"53332",
+    "ort":"Bornheim-Sechtem",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"15 bis 21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.376264,51.019372 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Lindlar",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Kirchplatz",
+    "hausnummer":"",
+    "plz":"51789",
+    "ort":"Lindlar",
+    "url":"https://www.lindlar.de/tourismus-und-freizeit/aktuelles-und-termine/veranstaltungskalender.html?tx_bnmdevents_pi1%5Bmodus%5D=detail&tx_bnmdevents_pi1%5Buid%5D=11198&tx_bnmdevents_pi1%5Bsecat%5D=0&tx_bnmdevents_pi1%5Bseday%5D=00&tx_bnmdevents_pi1%5Bsemon%5D=11&tx_bnmdevents_pi1%5Bseyear%5D=2018&cHash=8d3bb3f42104840ff479e326bcb7f4f7",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 17 bis 22 Uhr, Sa. 14 bis 22 Uhr und So 11 bis 20 Uhr, zusätzlich verkaufsoffener Sonntag",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.946618,50.624831 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Rheinbach",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Pützstraße bis Prümer Wall",
+    "hausnummer":"",
+    "plz":"53359",
+    "ort":"Rheinbach",
+    "url":"https://www.gewerbeverein-rheinbach.de/veranstaltungen/weihnachtsmarkt",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr. 14 bis 20 Uhr, Sa. Und So. 11 bis 20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.537963,50.915394 ]
+    },
+    "properties": {
+    "name":"„Adventszeit“ auf Schloss Homburg",
+    "start":"Erstes und zweites Adventswochenenden",
+    "ende":"",
+    "strasse":"Schloss Homburg",
+    "hausnummer":"1",
+    "plz":"51588",
+    "ort":"Nümbrecht",
+    "url":"www.schloss-homburg.de",
+    "typ":"burg",
+    "oeffnungszeiten":"Am 30.11/1.12. von 12 bis 22 Uhr und am 6.12 von 16 bis 22 Uhr, 7.12 von 12 bis 22 Uhr und am 8.12 von 12 bis 20 Uhr findet der Weihnachtsmarkt statt. Parallel sowie unter der Woche finden Workshops und Mitmachangebote statt.",
+    "Eintrittspreise":"Erwachsene zahlen 6,50 Euro, ermäßigt 3,50 Euro. Kinder unter einem bestimmten „Weihnachtsbaummaß“ sind frei."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.206342,50.668830 ]
+    },
+    "properties": {
+    "name":"Schloss Drachenburg",
+    "start":"An allen Adventswochenenden",
+    "ende":"",
+    "strasse":"Drachenfelsstraße",
+    "hausnummer":"118",
+    "plz":"53639",
+    "ort":"Königswinter",
+    "url":"https://www.schloss-drachenburg.de/index.php/de/veranstaltungen/einzigartige-weihnachtszeit",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa. von 12 bis 21 Uhr, So. von 12 bis 20 Uhr geöffnet.",
+    "Eintrittspreise":"Kombiticket (inkl. Fahrt mit der Drachenfelsbahn und Schlossbesichtigung):  Erwachsene 12 Euro, Kinder ab sechs Jahren 6 Euro. Fußgänger zahlen die üblichen Eintrittspreise für das Museum: Erwachsene: 7 Euro, Kinder und Studenten 5 Euro, Familienticket: 17 Euro."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.935130,50.942830 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Stadtgarten",
+    "start":"21.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Venloer Straße",
+    "hausnummer":"40",
+    "plz":"50672",
+    "ort":"Köln",
+    "url":"https://www.weihnachtsmarkt-stadtgarten.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo-Fr: 16-21.30 Uhr, Sa-So: 12-21.30 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.964010,50.932200 ]
+    },
+    "properties": {
+    "name":"Kölner Hafen-Weihnachtsmarkt am Schokoladenmuseum",
+    "start":"22.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Rheinauhafen ",
+    "hausnummer":"",
+    "plz":"50678",
+    "ort":"Köln",
+    "url":"http://www.hafen-weihnachtsmarkt.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"So-Do: 11-21 Uhr, Fr-Sa: 11-22 Uhr, Totensonntag ab 18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.957190,50.941299 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt am Kölner Dom -  Markt der Herzen",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Domkloster, Roncalliplatz",
+    "hausnummer":"",
+    "plz":"50667",
+    "ort":"Köln",
+    "url":"http://www.koelnerweihnachtsmarkt.com/de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"So-Mi 11-21 Uhr, Do-Fr 11-22 Uhr, Sa 10-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.960130,50.936500 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Kölner Altstadt - Heinzels Wintermärchen",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Alter Markt/ Heumarkt",
+    "hausnummer":"",
+    "plz":"50667",
+    "ort":"Köln",
+    "url":"https://www.heinzels-wintermaerchen.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo-So: 11-22 Uhr, ab 26.12 Mo-So: 11 bis 21 Uhr, 24. und 25.12 Ruhetage, Eisbahn 25.11.-05.01.2020 ",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.949340,50.935980 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt auf dem Neumarkt - Markt der Engel",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Neumarkt",
+    "hausnummer":"",
+    "plz":"50667",
+    "ort":"Köln",
+    "url":"https://www.markt-der-engel.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"So-Mo 11-21 Uhr, Fr-Sa 11-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.936690,50.935490 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt am Rudolfplatz - Nikolausdorf",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Rudolfplatz",
+    "hausnummer":"",
+    "plz":"50674",
+    "ort":"Köln",
+    "url":"http://www.nikolausdorf.com/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"So-Do 11-21 Uhr, Fr 11-22, Sa 10-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.941100,50.933250 ]
+    },
+    "properties": {
+    "name":"Heavenue Cologne - the gay Christmas Market",
+    "start":"21.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Maurituswall/ Ecke Schaafenstraße",
+    "hausnummer":"",
+    "plz":"50676",
+    "ort":"Köln",
+    "url":"https://www.heavenue.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo- Do: 16-22 Uhr, Fr-So: 14-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.956970,50.950220 ]
+    },
+    "properties": {
+    "name":"Winterzauber Eigelstein",
+    "start":"27.11.2019",
+    "ende":"1.12.019",
+    "strasse":"Eigelsteiltorburg",
+    "hausnummer":"",
+    "plz":"50668",
+    "ort":"Köln",
+    "url":"https://unser-ebertplatz.koeln/winterzauber2019/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mi-Fr: 14-22 Uhr, Sa: 12-22 Uhr, So: 12-21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.955080,50.926560 ]
+    },
+    "properties": {
+    "name":"Chlodwigplatz - Weihnachten im Veedel",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Chlodwigplatz",
+    "hausnummer":"",
+    "plz":"50678",
+    "ort":"Köln",
+    "url":"https://www.koeln.de/tourismus/weihnachtliches_koeln/weihnachtsmaerkte/adventsmarkt-auf-dem-chlodwigplatz_959646.html",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo- So: 11-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.953128,50.919739 ]
+    },
+    "properties": {
+    "name":"Kleinster Weihnachtsmarkt der Stadt - Lutherkirche",
+    "start":"20.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Martin-Luther-Platz",
+    "hausnummer":"4",
+    "plz":"50677",
+    "ort":"Köln",
+    "url":"https://kg-ponyhof.koeln/events/kategorie/kleinster-weihnachtsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mo-Fr: 17-22 Uhr, Sa-So: 14-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.917235,50.933510 ]
+    },
+    "properties": {
+    "name":"Lindenthal - Weihnachten im Veedel",
+    "start":"25.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Karl-Schwering-Platz",
+    "hausnummer":"",
+    "plz":"50931",
+    "ort":"Köln",
+    "url":"http://www.schulteundschulte.de/lindenthaler-winterdorf/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"So-Do: 12-21 Uhr, Fr- Sa: 12-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.994007,50.892397 ]
+    },
+    "properties": {
+    "name":"Winterzauber in Rodenkirchen",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Maternusplatz",
+    "hausnummer":"",
+    "plz":"50996",
+    "ort":"Köln",
+   "url":"https://treffpunkt-rodenkirchen.koeln/event/winterzauber-2019",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr.-Sa.: 12-21, So: 12-19",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.006971,50.861796 ]
+    },
+    "properties": {
+    "name":"Sürth - Weihnachten im Veedel",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Sürther Marktplatz",
+    "hausnummer":"",
+    "plz":"50999",
+    "ort":"Köln",
+    "url":"http://www.weihnachtsmarkt-suerth.de/info.html",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr: 17-20 Uhr, Sa: 15-20 Uhr, So: 12-19Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.052477,50.877473 ]
+    },
+    "properties": {
+    "name":"Porz - Weihnachten im Veedel ",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Friedrich-Ebert-Ufer",
+    "hausnummer":"",
+    "plz":"51143",
+    "ort":"Köln",
+    "url":"https://rathaussaal-porz.de/event/2-porzer-rheinachtsmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Fr: 18-22 Uhr, Sa: 14-22 Uhr, So: 11-17 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.951292,50.966287 ]
+    },
+    "properties": {
+    "name":"Nippes -Weihnachten im Veedel Nikolausmarkt",
+    "start":"4.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Schillplatz",
+    "hausnummer":"",
+    "plz":"50733",
+    "ort":"Köln",
+    "url":"https://www.fuer-nippes.de/nippes-termin/nikolausmarkt-2019/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Mi-Sa: 15-21 Uhr, So: 15-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.913220,50.950232 ]
+    },
+    "properties": {
+    "name":"Helios & Selene: Winterzaubermarkt",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Heliosstraße",
+    "hausnummer":"37",
+    "plz":"50825",
+    "ort":"Köln ",
+    "url":"http://www.heliosundselene.de/",
+    "typ":"design",
+    "oeffnungszeiten":"Fr 16-22 Uhr, Sa-So 12-22 Uhr",
+    "Eintrittspreise":"3-5  Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.953642,50.940218 ]
+    },
+    "properties": {
+    "name":"Der Super Weihnachts Markt, Südstadt, Bürgerhaus Stollwerk",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"An der Rechtschule",
+    "hausnummer":"",
+    "plz":"50667",
+    "ort":"Köln",
+    "url":"https://dersupermarkt.net/",
+    "typ":"design",
+    "oeffnungszeiten":"10-19 Uhr",
+    "Eintrittspreise":"5 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.832778,50.945067 ]
+    },
+    "properties": {
+    "name":"Marché Deluxe",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Brauweiler Straße",
+    "hausnummer":"16",
+    "plz":"50859",
+    "ort":"Köln-Lövenich",
+    "url":"https://www.marche-deluxe.de/",
+    "typ":"design",
+    "oeffnungszeiten":"Fr-Sa: 14-21, So: 14-20",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.917998,50.952121 ]
+    },
+    "properties": {
+    "name":"Ehrenfelder Weihnachtsmarkt im Bumann & Sohn",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Bartholomäus-Schink-Straße",
+    "hausnummer":"2",
+    "plz":"50825",
+    "ort":"Köln",
+    "url":"https://www.koeln.de/tourismus/weihnachtliches_koeln/weihnachtsmaerkte/alternative-weihnachtsmaerkte_1132653.html",
+    "typ":"design",
+    "oeffnungszeiten":"Mo-Fr: 16-22 Uhr,  Sa-So: 14-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.982202,50.942941 ]
+    },
+    "properties": {
+    "name":"Päckchenalarm in der Design Post",
+    "start":"1.12.2018",
+    "ende":"1.12.2018",
+    "strasse":"Deutz-Mühlheimer-Straße",
+    "hausnummer":"22a",
+    "plz":"50679",
+    "ort":"Köln",
+    "url":"https://www.designpost.de/de/paeckchenalarm-2018.html",
+    "typ":"design",
+    "oeffnungszeiten":"10-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.942962,50.940769 ]
+    },
+    "properties": {
+    "name":"Holy Shit Shopping Adventsmarkt - Sartory Säle",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Friesenstraße",
+    "hausnummer":"44-48",
+    "plz":"50670",
+    "ort":"Köln",
+    "url":"https://holyshitshopping.de/",
+    "typ":"design",
+    "oeffnungszeiten":"Sa: 12-21 Uhr, So: 12-20 Uhr",
+    "Eintrittspreise":"5 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.847186,50.939299 ]
+    },
+    "properties": {
+    "name":"Weihnachtsbasar in der Körnerstraße",
+    "start":"8.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Körnerstraße",
+    "hausnummer":"",
+    "plz":"50823",
+    "ort":"Köln",
+    "url":"http://www.koernerstrasse.org/",
+    "typ":"design",
+    "oeffnungszeiten":"13-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.917989,50.950942 ]
+        },
+    "properties": {
+    "name":"DesignMarkt in den Balloni-Hallen",
+    "start":"17.11.2019",
+    "ende":"17.11.2019",
+    "strasse":"Ehrenfeldgürtel",
+    "hausnummer":"88-96",
+    "plz":"50823",
+    "ort":"Köln",
+    "url":"https://diy-markt.com/portfolio_page/koeln-designmarkt/",
+    "typ":"design",
+    "oeffnungszeiten":"12-19 Uhr",
+    "Eintrittspreise":"4 Euro, ermäßig: 3 Euro, Kinder bis 14 Jahre frei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.707530,50.620560 ]
+    },
+    "properties": {
+    "name":"Historischer Weihnachstmarkt auf der Burg Satzvey",
+    "start":"An den Adventswochenden ",
+    "ende":"",
+    "strasse":"An der Burg",
+    "hausnummer":"3",
+    "plz":"53894",
+    "ort":"Mechernich",
+    "url":"https://www.burgsatzvey.de/veranstaltung/burgweihnacht-2019/",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa. von 12 Uhr bis 20 Uhr und So. von 12 bis 19 Uhr. ",
+    "Eintrittspreise":"Erwachsene 9 Euro, Jugendliche 6,50 Euro und Kinder (vier bis zwölf Jahre) 4 Euro (Familienkarten gibt es für 23 Euro)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.870343,51.160979 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt auf Schloss Benrath",
+    "start":"22.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Benrather Schloßallee",
+    "hausnummer":"100-106",
+    "plz":"40597",
+    "ort":"Düsseldorf",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.schloss-benrath.de/erleben/events/weihnachtsmarkt-schloss-benrath-2019/",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 14-21 Uhr, Sa: 11-21 Uhr, So: 11-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.083225,51.250986 ]
+    },
+    "properties": {
+    "name":"Advent auf Schloss Lüntenbeck",
+    "start":"Zweites und drittes Adventswochenende",
+    "ende":"",
+    "strasse":"Lüntenbeck",
+    "hausnummer":"1",
+    "plz":"42327",
+    "ort":"Wuppertal",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.schloss-luentenbeck.de/events/weihnachtsmarkt-3",
+    "typ":"burg",
+    "oeffnungszeiten":"11-19 Uhr",
+    "Eintrittspreise":"Kinder bis 14 frei, Erwachsene: 6 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.237196,51.755309 ]
+    },
+    "properties": {
+    "name":"Schloss Moyland",
+    "start":"11.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Am Schloss",
+    "hausnummer":"4",
+    "plz":"47551",
+    "ort":"Bedburg-Hau",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.weihnachtsmarkt-moyland.de/",
+    "typ":"burg",
+    "oeffnungszeiten":"Mi-Fr: 13-22 Uhr, Sa 11-22 Uhr, So 11-20 Uhr",
+    "Eintrittspreise":"Kinder unter 16 frei, Erwachsene: 7,50 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.160617,50.966691 ]
+    },
+    "properties": {
+    "name":"Schloss Bensberg",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Kadettenstraße",
+    "hausnummer":"",
+    "plz":"51429",
+    "ort":"Bergisch Gladbach",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.althoffcollection.com/de/althoff-grandhotel-schloss-bensberg/events/unikat-weihnachtsmarkt",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 16-21 Uhr, Sa: 13-22 Uhr, So: 11-20 Uhr",
+    "Eintrittspreise":"Kinder bis 12 frei, Erwachsene: 12 Euro inkl. Glühwein oder Punsch, 11 Euro bei Anreise mit öffentlichen Verkehrsmitteln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.165432,50.817386 ]
+    },
+    "properties": {
+    "name":"Weihnachten auf Burg Wissem",
+    "start":"13.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Burgallee",
+    "hausnummer":"1",
+    "plz":"53840",
+    "ort":"Troisdorf",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.troisdorf.city/Grossveranstaltungen-Feste-Innenstadt/14.-16.12.2018-Romantischer-Weihnachtsmarkt-rund-um-die-Burg-Wissem/(navid)/1612",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr-Sa: 14-21 Uhr, Sa: 11-21 Uhr, So: 11-19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.695968,50.889291 ]
+    },
+    "properties": {
+    "name":"Schloss Loersfeld",
+    "start":"20.12.2019",
+    "ende":"22.12.2019",
+    "strasse":"Schloss Loersfeld",
+    "hausnummer":"",
+    "plz":"50171",
+    "ort":"Kerpen",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.schlossloersfeld.de/2019/01/23/20-bis-22-12-2019-weihnachtsmarkt-auf-schloss-loersfeld/",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 17-22 Uhr, Sa: 12-22 Uhr, So: 12-20",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.362175,51.550725 ]
+    },
+    "properties": {
+    "name":"Weihnachtsflair auf Schloss Bodelschwingh",
+    "start":"28.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Schlossstraße",
+    "hausnummer":"75",
+    "plz":"44357",
+    "ort":"Dortmund",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"http://schloss-bodelschwingh.de/veranstaltungen/",
+    "typ":"burg",
+    "oeffnungszeiten":"Do:15-20 Uhr, Fr-Sa: 12-20 Uhr, So: 12-18 Uhr",
+    "Eintrittspreise":"Kinder unter 15 in begleitung eines Erwachsenen frei, Erwachsene: 12 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.153075,51.137577 ]
+    },
+    "properties": {
+    "name":"Adventsbasar auf Schloss Burg",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Schlossplatz",
+    "hausnummer":"2",
+    "plz":"42659",
+    "ort":"Solingen",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138-",
+    "url":"https://www.schlossburg.de/termine-news/terminkalender/",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 10-18, Sa: 10-20, So: 10-18",
+    "Eintrittspreise":" Erw. 6 Euro, Kinder 3 Euro, kleingruppe 17 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.466524,50.477071 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt auf der Burg Reifferscheid",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Zehntweg",
+    "hausnummer":"5",
+    "plz":"53940",
+    "ort":"Hellenthal",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.hellenthal.de/tourismus/veranstaltungen/weihnachtsmarkt-reifferscheid/",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa: 14-22 Uhr, So: 11-18 Uhr",
+    "Eintrittspreise":"Erw.: 1,50 Euro, für Kinder bis zum Schwertmaß (1,50 m) ist der Eintritt frei."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.817628,50.091237 ]
+    },
+    "properties": {
+    "name":"Manderscheider Burgenweihnacht",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Niedermanderscheider Straße",
+    "hausnummer":"",
+    "plz":"54531",
+    "ort":"Manderscheid",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.eifel.info/informationen/veranstaltungen/veranstaltungskalender/e-manderscheider-burgenweihnacht",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa: 14-22 Uhr, So: 11-18 UHr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.476980,50.364312 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Kronenburg",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Burgbering",
+    "hausnummer":"4",
+    "plz":"53949",
+    "ort":"Kronenburg/Dahlem",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.kronenburger-weihnachtsmarkt.de/",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 16-22, Sa: 13-22, So: 11.30-18 Uhr",
+    "Eintrittspreise":"Kinder bis 12 frei, Erwachsene: 2 Euro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.66259,50.914024 ]
+    },
+    "properties": {
+    "name":"Burgweihnacht in Denklingen",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Unter der Burg",
+    "hausnummer":"",
+    "plz":"51580",
+    "ort":"Reichshof-Denklingen ",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.reichshof.org/veranstaltungen/burgweihnacht-2019_11.html + https://www.reichshof.org/veranstaltungen/burgweihnacht-2019_12.html",
+    "typ":"burg",
+    "oeffnungszeiten":"Sa: 13-20 Uhr, So: 11-19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.674756,51.299774 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt auf Burg Altena",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Fritz-Thomee-Straße",
+    "hausnummer":"80",
+    "plz":"58762",
+    "ort":"Altena",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.nrw-tourismus.de/a-burg-altena-weihnachtsmarkt",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 17-22 Uhr,Sa: 11-22 Uhr, So 11-18 Uhr",
+    "Eintrittspreise":"Kinder/Erwachsene: 2 Euro, Kinder unter 6 Jahren frei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.185570,50.899762 ]
+    },
+    "properties": {
+    "name":"Weihnachten auf Schloss Eulenbroich",
+    "start":"29.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Zum Eulenbroicher Auel",
+    "hausnummer":"19",
+    "plz":"51503",
+    "ort":"Rösrath",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"https://www.ksta.de/freizeit/weihnachten/weihnachtsmaerkte-auf-burgen-und-schloessern-in-nrw-23277138",
+    "url":"https://www.schloss-eulenbroich.de/weihnachtsmarkt.aspx",
+    "typ":"burg",
+    "oeffnungszeiten":"Fr: 17-22 Uhr, Sa: 11-22 Uhr, So: 11-19 Uhr",
+    "Eintrittspreise":"Erwachsene: 3 Euro, Ermäßigt: 2 Euro, Kinder bis 14 Jahren zahlen keinen Eintritt, Eintritt giilt für Besuch aller Veranstaltungstage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.956885,50.949261 ]
+    },
+    "properties": {
+    "name":"Winterzauber am Eigelstein",
+    "start":"27.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Eigelsteintorburg",
+    "hausnummer":"",
+    "plz":"50668",
+    "ort":"Köln",
+    "img":"",
+    "img_credit":"",
+    "url_ksta":"http://ksta.de/31554734",
+    "url":"https://unser-ebertplatz.koeln/winterzauber2019/",
+    "typ":"design",
+    "oeffnungszeiten":"Mi-Fr: 14-22 Uhr, Sa: 12-22 Uhr, So: 12-21 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.940288,50.910994 ]
+    },
+    "properties": {
+    "name":"X-Mas Bazar im Salon Fadenschein",
+    "start":"30.11.2019",
+    "ende":"8.12.2019",
+    "strasse":"Gottesweg",
+    "hausnummer":"37",
+    "plz":"50969",
+    "ort":"Köln",
+    "url":"https://www.salon-fadenschein.de/events/weihnachts-bazar-im-salon-fadenschein/",
+    "typ":"design",
+    "oeffnungszeiten":"13-19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.060479,50.994916 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt im Wald Waldbad Dünnwald",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Peter-Baum-Weg",
+    "hausnummer":"20",
+    "plz":"51069",
+    "ort":"Köln",
+    "url":"https://waldbad-camping.de/veranstaltung/waldweihnachtsmarkt/",
+    "typ":"design",
+    "oeffnungszeiten":"Sa: 14-20 Uhr, So: 11-18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.953128,50.919739 ]
+    },
+    "properties": {
+    "name":"Weihnachstmarkt an der Lutherkirche Südstadt",
+    "start":"20.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Martin-Luther-Platz",
+    "hausnummer":"4",
+    "plz":"50677",
+    "ort":"Köln",
+    "url":"https://kg-ponyhof.koeln/events/kategorie/kleinster-weihnachtsmarkt/",
+    "typ":"design",
+    "oeffnungszeiten":"Mo-Fr: 17-22 Uhr, Sa-So: 14-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.879098,50.888024 ]
+    },
+    "properties": {
+    "name":"Weihnachten auf dem Gertrudenhof",
+    "start":"27.11.2019",
+    "ende":"24.12.2019",
+    "strasse":"Lortzingstraße",
+    "hausnummer":"160",
+    "plz":"50345",
+    "ort":"Köln-Hürth",
+    "url":"http://erlebnisbauernhof-gertrudenhof.de/index.php/winterzauber/",
+    "typ":"design",
+    "oeffnungszeiten":"Mo-Fr: 11-18 Uhr, Sa-So: 11-20 Uhr, Heiligabend: 10-14 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.934940,50.945829 ]
+    },
+    "properties": {
+    "name":"African-X-Mas in Ehrenfeld",
+    "start":"",
+    "ende":"",
+    "strasse":"Venloer Wall",
+    "hausnummer":"17",
+    "plz":"50672",
+    "ort":"Köln",
+    "url":"",
+    "typ":"design",
+    "oeffnungszeiten":"",
+    "Eintrittspreise":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.955080,50.926560 ]
+    },
+    "properties": {
+    "name":"Veedelsadvent auf dem Chlodwigplatz",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Chlodwigplatz",
+    "hausnummer":"",
+    "plz":"50678",
+    "ort":"Köln",
+    "url":"https://www.koeln.de/tourismus/weihnachtliches_koeln/weihnachtsmaerkte/adventsmarkt-auf-dem-chlodwigplatz_959646.html",
+    "typ":"design",
+    "oeffnungszeiten":"Mo- So: 11-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.867800,50.922312 ]
+    },
+    "properties": {
+    "name":"Adventsbazar in der Wildkräuterei",
+    "start":"15.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Dürener Straße",
+    "hausnummer":"420",
+    "plz":"50858",
+    "ort":"Köln",
+    "url":"http://wildkraeuterei-koeln.de/",
+    "typ":"design",
+    "oeffnungszeiten":"14-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.968330,50.917505 ]
+    },
+    "properties": {
+    "name":"Adventsmarkt \"Rudolph\" am Baui",
+    "start":"24.11.2019",
+    "ende":"24.11.2019",
+    "strasse":"Hans-Abraham-Ochs-Weg",
+    "hausnummer":"1",
+    "plz":"50678",
+    "ort":"Köln",
+    "url":"https://www.facebook.com/Foerderverein.Bauspielplatz/",
+    "typ":"design",
+    "oeffnungszeiten":"12-18 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.812170,50.937910 ]
+    },
+    "properties": {
+    "name":"Weihnachten auf dem Gut Clarenhof",
+    "start":"30.11.2019",
+    "ende":"22.12.2019",
+    "strasse":"Gut Clarenhof",
+    "hausnummer":"1",
+    "plz":"50226",
+    "ort":"Frechen",
+    "url":"https://www.gut-clarenhof.de/weihnachten/weihnachtsmarkt",
+    "typ":"design",
+    "oeffnungszeiten":"immer Sa und So, je 11-19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.926690,50.915260 ]
+    },
+    "properties": {
+    "name":"Weihnachstmarkt am Unkelbach",
+    "start":"27.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Luxemburger Straße",
+    "hausnummer":"260",
+    "plz":"50937",
+    "ort":"Köln",
+    "url":"https://www.hausunkelbach.de/weihnachtsmarkt-am-unkelbach-2019/",
+    "typ":"design",
+    "oeffnungszeiten":"Mi-Fr: 17-22 Uhr, Sa-So: 15-22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.987920,51.032610 ]
+    },
+    "properties": {
+    "name":"Christkindchen Markt",
+    "start":"21.11.2019",
+    "ende":"30.12.2019",
+    "strasse":"Friedrich-Ebert-Platz",
+    "hausnummer":"1",
+    "plz":"51373",
+    "ort":"Leverkusen",
+    "url":"https://www.christkindchenmarkt.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"11-20 Uhr, Gastronomie bis 22 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.977300,51.037400 ]
+    },
+    "properties": {
+    "name":"Nordischer Weihnachtsmarkt",
+    "start":"14.12.2019",
+    "ende":"15.12.2019",
+    "strasse":"Nobelstraße",
+    "hausnummer":"91",
+    "plz":"51373",
+    "ort":"Leverkusen",
+    "url":"https://www.neuland-park.de/veranstaltung/nordischer-weihnachtsmarkt-leverkusen/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa: 14-21 Uhr, So: 11-20 Uhr",
+    "Eintrittspreise":"5 Euro für beide Tage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.003810,51.061040 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Opladen \"Bergisches Dorf\"",
+    "start":"21.11.2019",
+    "ende":"30.12.2019",
+    "strasse":"Fußgängerzone Kölner Straße",
+    "hausnummer":"",
+    "plz":"51379",
+    "ort":"Leverkusen-Opladen",
+    "url":"http://www.weihnachtsmarkt-opladen.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"11-20 Uhr, So: ab 12",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.057360,51.037420 ]
+    },
+    "properties": {
+    "name":"Adventsmarkt Leverkusen-Schlebusch",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Fußgängerzone, Bergische Landstraße, Arkaden & Lindenplatz",
+    "hausnummer":"",
+    "plz":"51375",
+    "ort":"Leverkusen-Schlebusch",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"11-19 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.551240,51.113340 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt Winter in Burscheid",
+    "start":"16.11.2019",
+    "ende":"15.12.2019",
+    "strasse":"Engelrath",
+    "hausnummer":"3",
+    "plz":"51399",
+    "ort":"Burscheid",
+    "url":"https://weihnachtsmarkt-burscheid.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"12-21 Uhr, am 17.11. ab 13 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.013240,51.104300 ]
+    },
+    "properties": {
+    "name":"Bratapfelfest Leichlingen",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Alter Marktplatz und Montanusstraße",
+    "hausnummer":"",
+    "plz":"42799",
+    "ort":"Leichlingen",
+    "url":"https://wiv-leichlingen.de/22-bratapfelfest-in-leichlingen/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.099640,50.734530 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in der Bonner Innenstadt",
+    "start":"22.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Münsterplatz",
+    "hausnummer":"",
+    "plz":"53111",
+    "ort":"Bonn",
+    "url":"www.nrw-tourismus.de/a-bonn-weihnachtsmarkt",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Die Verkaufsstände sind täglich von 11 bis 21 Uhr geöffnet",
+    "Eintrittspreise":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.153900,50.683680 ]
+    },
+    "properties": {
+    "name":"Nikolausmarkt Bad Godesberg",
+    "start":"25.11.2019",
+    "ende":"23.12.2019",
+    "strasse":"Theaterplatz",
+    "hausnummer":"",
+    "plz":"53177",
+    "ort":"Bonn",
+    "url":"www.bad-godesberg.info/veranstaltungen-in-bad-godesberg/nikolausmarkt/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Montags bis samstags von 11 bis 19.30 Uhr und sonntags von 12 bis 19 Uhr",
+    "Eintrittspreise":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.612840,50.871560 ]
+    },
+    "properties": {
+    "name":"Marktstadt Waldbröl",
+    "start":"30.11.2019",
+    "ende":"1.12.2019",
+    "strasse":"Gerberstraße",
+    "hausnummer":"",
+    "plz":"51545",
+    "ort":"Waldbröl",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"11-20 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.548000,50.947190 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt in Wiehl",
+    "start":"7.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Bahnhofstraße",
+    "hausnummer":"",
+    "plz":"51674",
+    "ort":"Wiehl",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Samstag, 7. Dezember von 11.00 Uhr bis 21.00 Uhr und Sonntag, 8. Dezember von 11.00 bis 19.00 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.563690,51.028070 ]
+    },
+    "properties": {
+    "name":"Weihnachtsmarkt rund um die Markstraße",
+    "start":"6.12.2019",
+    "ende":"8.12.2019",
+    "strasse":"Marktstraße",
+    "hausnummer":"",
+    "plz":"51643",
+    "ort":"Gummersbach",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Freitag, 6.Dezember, 15.00-21.00 Uhr; Samstag, 7. Dezember 2018, 11.00 bis 21.00 Uhr; Sonntag 8. Dezember von 12.00 Uhr bis 19.00 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.648110,51.020940 ]
+    },
+    "properties": {
+    "name":"Traditioneller Altstädter Nikolausmarkt",
+    "start":"29.11.2019",
+    "ende":"1.12.2018",
+    "strasse":"Wallstraße",
+    "hausnummer":"1",
+    "plz":"51702",
+    "ort":"Bergneustadt",
+    "url":"",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Freitag, 29.11. 2019, 18.00-22.00 Uhr; Samstag, 30. November 2019, 15.00-22.00 Uhr; Sonntag, 1. Dezember, 11.00 bis 18.00 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.029250,50.876190 ]
+    },
+    "properties": {
+    "name":"11. Weißer Weihnachtsmarkt",
+    "start":"",
+    "ende":"",
+    "strasse":"Auf dem Kirchplatz St. Georg",
+    "hausnummer":"",
+    "plz":"50999",
+    "ort":"Köln-Weiß",
+    "url":"http://www.dorfgemeinschaft-weiss.de/",
+    "typ":"klassisch",
+    "oeffnungszeiten":"Sa. ab 15 Uhr, So. ab 13 Uhr",
+    "Eintrittspreise":"Der Eintritt ist gratis"
+    }
+  }
+]
+}
